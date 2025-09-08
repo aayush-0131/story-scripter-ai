@@ -2,7 +2,7 @@
 
 An AI-powered visual storyteller that uses the Gemini API to generate and sequentially edit images, creating a narrative from a single starting picture.
 
-![Demo Banner](https://i.imgur.com/your-image-url.png) ## Features
+## Features
 
 -   **Sequential Image Editing:** Takes a starting image and a series of text prompts.
 -   **Story Generation:** Each prompt modifies the result of the previous step, creating a coherent visual story.
